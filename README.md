@@ -1,3 +1,7 @@
+#initial goal:
+convert step files to scads and stls so they may be live viewed on github. 
+
+
 # Capstan-Drive
 A Capstan Drive is a cheap rope-driven speed reducer that has low backlash, low inertia, low noise, and high torque transparency. 
 When it comes to building robots a Capstan Drive can be quite beneficial. This test stand has the following features:
